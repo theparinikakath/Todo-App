@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    background-color:bisque;
+    text-align: center;
+    align-items: center;
+    
+}
+.inp{
+    font-size: x-large;
+}
+.listt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    list-style-position: inside;
+}
